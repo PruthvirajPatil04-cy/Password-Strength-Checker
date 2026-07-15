@@ -38,10 +38,6 @@ A modern and responsive Password Strength Checker that helps users create strong
 * Security tips and recommendations
 * Breach detection using external APIs
 
-## 📷 Preview
-
-Add a screenshot or GIF of your project here.
-
 ## 📄 License
 
 This project is open-source and available under the MIT License.
